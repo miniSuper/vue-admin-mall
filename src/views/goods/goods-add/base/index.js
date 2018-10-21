@@ -1,0 +1,6 @@
+export { default as Basic } from './basic-set'
+export { default as Detail } from './detail-set'
+export { default as GoodsType } from './goods-type-set'
+export { default as GoodsModel } from './goods-model-set'
+export { default as Media } from './media-set'
+export { default as Moban } from './moban-set'

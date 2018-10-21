@@ -1,0 +1,7 @@
+{
+  "path": "/goods/addGoods",
+  "component": "@/views/goods/goods-add",
+  "title": "添加商品",
+  "icon": "dashboard",
+  "children": []
+}
